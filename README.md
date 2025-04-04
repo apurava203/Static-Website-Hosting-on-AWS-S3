@@ -1,2 +1,17 @@
-# Static-Website-Hosting-on-AWS-S3
-Deployed a static website using AWS S3, making it publicly accessible. Configured bucket policies for access control and optimized performance with CloudFront. Used Route 53 for custom domain setup. This project showcases cloud hosting skills for portfolios, landing pages, and business websites.
+## Overview
+This project demonstrates how to host a static website on AWS S3 with public access and optional CloudFront CDN.
+
+## Steps to Deploy
+1. Create an S3 bucket and enable static website hosting.
+2. Upload website files (index.html, CSS, JS).
+3. Modify bucket policy to allow public access.
+4. (Optional) Set up CloudFront for faster content delivery.
+5. (Optional) Link a custom domain via AWS Route 53.
+
+## Tech Used
+- AWS S3
+- HTML, CSS, JavaScript
+- (Optional) AWS CloudFront, Route 53
+
+## Demo
+[Live Website](YOUR_S3_WEBSITE_URL)
